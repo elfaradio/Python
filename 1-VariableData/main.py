@@ -78,3 +78,7 @@ print(type(name))  # type of name is str..... always str hoi
 temp = float(input("Enter temperature in Celsius: "))
 temp_fahrenheit = (temp * 9/5) + 32
 print(temp_fahrenheit)
+
+farhad = 2
+
+# System 2
